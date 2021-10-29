@@ -1,3 +1,13 @@
-#textbox1 {
+.text {
     color: #980000;
+    font: "Electrolize"
+}
+#table1 {
+    padding: 5px;
+}
+#textbox1 {
+    border: 2px;
+}
+#textbox2 {
+    border: 2px;
 }
