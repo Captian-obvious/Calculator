@@ -1,0 +1,30 @@
+.button6func {
+    width:150px;
+    height:150px;
+}
+.image {
+    width:100px;
+    height:100px;
+}
+.buttonScientific {
+    width:150px;
+    height:150px;
+}
+.imageSci {
+    width:100px;
+    height:100px;
+}
+.imageTerm {
+    width:100px;
+    height:100px;
+}
+a:link, a:visited {
+    background-color: #f44336;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active {
+    background-color: red;
+}
